@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.43.0-red.svg)](https://streamlit.io/)
 [![LangChain](https://img.shields.io/badge/LangChain-0.3.19-green.svg)](https://github.com/langchain-ai/langchain)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 MediBot is an intelligent medical assistant powered by advanced AI technologies. It uses Retrieval-Augmented Generation (RAG) to provide accurate medical information based on a curated knowledge base of medical documents.
 
