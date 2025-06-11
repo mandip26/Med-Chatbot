@@ -233,11 +233,6 @@ MediBot is designed for educational and informational purposes only. It should N
 - [Hugging Face](https://huggingface.co/) for model hosting
 - [FAISS](https://github.com/facebookresearch/faiss) for vector similarity search
 
-## 📞 Support
-
-- **Documentation**: [Wiki](https://github.com/yourusername/medibot/wiki)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/medibot/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/medibot/discussions)
 
 ## 🔄 Changelog
 
