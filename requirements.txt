@@ -1,0 +1,32 @@
+# Core dependencies
+langchain==0.3.19
+langchain-community==0.3.18
+langchain-core==0.3.40
+langchain-huggingface==0.1.2
+langchain-text-splitters==0.3.6
+
+# Vector store and embeddings
+faiss-cpu==1.10.0
+sentence-transformers==3.4.1
+
+# PDF processing
+pypdf==5.3.1
+
+# Web interface
+streamlit==1.43.0
+
+# Machine learning
+torch==2.6.0
+transformers==4.49.0
+huggingface-hub==0.29.1
+
+# Utilities
+python-dotenv==1.0.1
+requests==2.32.3
+numpy==2.2.3
+pandas==2.2.3
+
+# Development dependencies (optional)
+black==24.10.0
+flake8==7.1.1
+pytest==8.3.4
